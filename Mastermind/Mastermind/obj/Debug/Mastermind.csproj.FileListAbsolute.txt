@@ -1,0 +1,10 @@
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\bin\Debug\Mastermind.exe.config
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\bin\Debug\Mastermind.exe
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\bin\Debug\Mastermind.pdb
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.Form1.resources
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.Properties.Resources.resources
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.exe
+C:\Users\Mike\Desktop\Mastermind\Mastermind\Mastermind\obj\Debug\Mastermind.pdb
